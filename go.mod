@@ -2,7 +2,7 @@ module github.com/EpiK-Protocol/go-epik
 
 go 1.14
 
-replace github.com/supranational/blst => github.com/supranational/blst v0.1.2-alpha.1
+replace github.com/supranational/blst => github.com/supranational/blst v0.2.0
 
 require (
 	contrib.go.opencensus.io/exporter/jaeger v0.1.0
